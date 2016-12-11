@@ -9,7 +9,7 @@
     "geom:bbox":"-116.31423,43.36502,-115.97484,43.62923",
     "geom:latitude":43.523513,
     "geom:longitude":-116.092436,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":336089511.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 18",
     "uscensus:sldust":"018",
     "uscensus:statefp":"16",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688657
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486508,
     "wof:geomhash":"91d99d3ae29fea8b12c7c4f5b79064bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688657
+        }
+    ],
     "wof:id":1108764339,
     "wof:lastmodified":1481486508,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688657,
     "wof:repo":"whosonfirst-data-constituency-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],

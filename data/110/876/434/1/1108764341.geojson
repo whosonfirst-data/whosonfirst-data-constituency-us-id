@@ -9,7 +9,7 @@
     "geom:bbox":"-116.32001,43.569147,-116.03871,43.79379",
     "geom:latitude":43.672813,
     "geom:longitude":-116.187827,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":247396168.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 19",
     "uscensus:sldust":"019",
     "uscensus:statefp":"16",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688657
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486509,
     "wof:geomhash":"bfa66141c1ba3d1808e290e15fd87fd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688657
+        }
+    ],
     "wof:id":1108764341,
     "wof:lastmodified":1481486509,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688657,
     "wof:repo":"whosonfirst-data-constituency-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],

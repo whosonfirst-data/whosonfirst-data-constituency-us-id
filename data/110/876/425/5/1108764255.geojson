@@ -9,7 +9,7 @@
     "geom:bbox":"-116.31407,43.607369,-116.22207,43.68252",
     "geom:latitude":43.643621,
     "geom:longitude":-116.265399,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":30831520.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 16",
     "uscensus:sldlst":"016",
     "uscensus:statefp":"16",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688657
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486489,
     "wof:geomhash":"1fb064fb595d00a8ee0cc4175ce2045a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688657
+        }
+    ],
     "wof:id":1108764255,
     "wof:lastmodified":1481486489,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688657,
     "wof:repo":"whosonfirst-data-constituency-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],

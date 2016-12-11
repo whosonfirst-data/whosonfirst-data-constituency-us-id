@@ -9,7 +9,7 @@
     "geom:bbox":"-112.52008,43.366306,-111.92907,43.62662",
     "geom:latitude":43.518784,
     "geom:longitude":-112.235371,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1023066356.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 30",
     "uscensus:sldlst":"030",
     "uscensus:statefp":"16",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688657
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486495,
     "wof:geomhash":"26c52c1a040faf112050cc7dbca8a00f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688657
+        }
+    ],
     "wof:id":1108764287,
     "wof:lastmodified":1481486495,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688657,
     "wof:repo":"whosonfirst-data-constituency-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
